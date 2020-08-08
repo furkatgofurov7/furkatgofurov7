@@ -32,6 +32,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=furkatgofurov7&count_private=true&show_icons=true&include_all_commits=true)
+![Furkat's github stats](https://github-readme-stats.vercel.app/api?username=furkatgofurov7&show_icons=true&count_private=true&include_all_commits=true&theme=solarized-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkatgofurov7&layout=compact&theme=solarized-dark)](https://github.com/furkatgofurov7/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=furkatgofurov7.furkatgofurov7)
+![GitHub last commit](https://img.shields.io/github/last-commit/furkatgofurov7/furkatgofurov7)
