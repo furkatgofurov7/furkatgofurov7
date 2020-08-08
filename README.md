@@ -2,21 +2,22 @@
 
 - 🏢 I'm currently working at Ericsson
 - 🔭 I’m mostly working on Open Source project called [Metal3](http://metal3.io/)
-- 🌍 I'm active within the Metal3 Community
+- 🌍 I'm active within the [Metal3 Community on Slack](https://kubernetes.slack.com/messages/CHD49TLE7)
 - 🌱 I’m currently learning all Cloud related stuff
-- 👯 I’m looking to collaborate on [Kubernetes related Projects](https://github.com/metal3-io)
+- 👯 I’m open to collaborate on [Kubernetes related Projects](https://github.com/metal3-io)
 - 🤔 I’m looking for help with whatever I do not know :-)
-- 💬 Discuss with me about Open Source and Cloud Technologies
+- 💬 Discuss with me about Cloud, Kubernetes & Open Source
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am spending most of my time self educating myself and watching football ¯\_(ツ)_/¯ 
 
 
-#### 📫 How to reach me:
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/furkatgofurov/)
-  <a href="mailto:furkat.gofurov@est.tech"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+### 📫 How to reach me:
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/furkatgofurov/)
+<a href="mailto:furkat.gofurov@est.tech"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
