@@ -4,11 +4,11 @@
 - 🔭 I’m mostly working on Open Source project called [Metal3](http://metal3.io/)
 - 🌍 I'm active within the Metal3 Community
 - 🌱 I’m currently learning all Cloud related stuff
-- 👯 I’m looking to collaborate on [K8s related Projects](https://github.com/metal3-io)
+- 👯 I’m looking to collaborate on [Kubernetes related Projects](https://github.com/metal3-io)
 - 🤔 I’m looking for help with whatever I do not know :-)
-- 💬 Ask me about K8s
+- 💬 Discuss with me about Open Source and Cloud Technologies
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am spending most of my time self educating myself and watching football
+- ⚡ Fun fact: I am spending most of my time self educating myself and watching football ¯\_(ツ)_/¯ 
 
 
 #### 📫 How to reach me:
