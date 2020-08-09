@@ -1,4 +1,4 @@
-### Hi there, I am Furkat Gofurov <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hi there, I am Furkat Gofurov! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 - 🏢 I'm currently working at Ericsson
 - 🔭 I’m mostly working on Open Source project called [Metal3](http://metal3.io/)
