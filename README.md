@@ -17,7 +17,7 @@
 <a href="mailto:furkat.gofurov@est.tech"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-### ⚡ Technologies
+### ⚡ Technologies:
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
