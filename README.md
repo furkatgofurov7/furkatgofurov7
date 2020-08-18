@@ -3,9 +3,9 @@
 - 🏢 I'm currently working at Ericsson
 - 🔭 I’m mostly working on Open Source project called [Metal3](http://metal3.io/)
 - 🌍 I'm active within the [Metal3 Community on Slack](https://kubernetes.slack.com/messages/CHD49TLE7)
-- 🌱 I’m currently learning all Cloud related stuff
+- 🌱 I’m currently learning everything related to Cloud and Kubernetes
 - 👯 I’m open to collaborate on [Kubernetes related Projects](https://github.com/metal3-io)
-- 🤔 I’m looking for help with whatever I do not know :-)
+- 🤔 I’m looking for help with whatever I don't know :-)
 - 💬 Discuss with me about Cloud, Kubernetes & Open Source
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am spending most of my time self educating myself and watching football ¯\_(ツ)_/¯ 
