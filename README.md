@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with anything that I am not confident with:-)
 - 💬 Discuss with me about Cloud, Kubernetes & Open Source
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am spending most of my time self educating myself and watching football ¯\_(ツ)_/¯ 
+- ⚡ Fun fact: I am spending most of my time learning new things and watching football ¯\_(ツ)_/¯ 
 
 
 ### 📫 How to reach me:
