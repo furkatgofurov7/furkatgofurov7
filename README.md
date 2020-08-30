@@ -5,10 +5,10 @@
 - 🌍 I'm active within the [Metal3 Community on Slack](https://kubernetes.slack.com/messages/CHD49TLE7)
 - 🌱 I’m currently learning everything related to Cloud & Kubernetes
 - 👯 I’m open to collaborate on [Cloud Native Projects](https://github.com/metal3-io)
-- 🤔 I’m looking for help with anything that I am not confident with:-)
+- 🤔 I’m looking for help with anything that I am not confident with..
 - 💬 Discuss with me about Open Source, Cloud & Kubernetes 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am spending most of my time learning new things and watching football ¯\_(ツ)_/¯ 
+- ⚡ Fun fact: I am spending most of my time learning new things and watching football ¯\_(ツ)_/¯
 
 
 ### 📫 How to reach me:
