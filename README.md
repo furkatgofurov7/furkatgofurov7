@@ -37,5 +37,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkatgofurov7&layout=compact&theme=solarized-dark)](https://github.com/furkatgofurov7/github-readme-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/furkatgofurov7?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/furkatgofurov7/furkatgofurov7?style=flat-square)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=furkatgofurov7.furkatgofurov7)
+![GitHub last commit](https://img.shields.io/github/last-commit/furkatgofurov7/furkatgofurov7?style=flat-square)
