@@ -32,9 +32,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-
-![Furkat's github stats](https://github-readme-stats.vercel.app/api?username=furkatgofurov7&show_icons=true&count_private=true&include_all_commits=true&theme=solarized-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkatgofurov7&layout=compact&theme=solarized-dark)](https://github.com/furkatgofurov7/github-readme-stats)
+![Furkat's github stats](https://github-readme-stats.vercel.app/api?username=furkatgofurov7&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Furkat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkatgofurov7&layout=compact&theme=radical)
 
 ![GitHub followers](https://img.shields.io/github/followers/furkatgofurov7?style=flat-square)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=furkatgofurov7.furkatgofurov7)
