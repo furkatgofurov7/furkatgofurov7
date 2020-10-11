@@ -34,10 +34,10 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/furkatgofurov7/furkatgofurov7?style=flat-square)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=furkatgofurov7.furkatgofurov7)
-![GitHub followers](https://img.shields.io/github/followers/furkatgofurov7?style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/furkatgofurov7)
+![GitHub followers](https://img.shields.io/github/followers/furkatgofurov7?style=flat-square)
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/furkatgofurov7/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Love%20Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/furkatgofurov7/badges/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/furkatgofurov7/badges)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/furkatgofurov7/)
