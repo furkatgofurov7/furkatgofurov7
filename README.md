@@ -23,6 +23,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-cfcecc?style=flat-square&logo=Jenkins)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Gerrit](https://img.shields.io/badge/-Gerrit-black?style=flat-square&logo=gerrit)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django)
