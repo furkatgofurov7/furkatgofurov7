@@ -20,6 +20,7 @@
 ![Golang](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Shell](https://img.shields.io/badge/-Shell-311C87?style=flat-square&logo=shellscript)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
