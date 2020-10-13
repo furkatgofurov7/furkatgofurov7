@@ -40,6 +40,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/furkatgofurov7)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-[![Love Open Source? Yes!](https://badgen.net/badge/Love%20Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/furkatgofurov7/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Love%20Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/furkatgofurov7/badges/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/furkatgofurov7/badges)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/furkatgofurov7/)
