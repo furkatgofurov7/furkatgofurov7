@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything related to Cloud & Kubernetes
 - 👯 I’m open to collaborate on [Cloud Native Projects](https://github.com/metal3-io)
 - 🤔 I’m looking for help with anything that I am not confident with..
-- 💬 Discuss with me about Open Source, Cloud & Kubernetes 
 - 😄 Pronouns: He/His
 
 ### 📫 How to reach me:
