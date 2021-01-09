@@ -1,10 +1,9 @@
 ### Hi there, I am Furkat Gofurov! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-- 🏢 I'm currently working at Ericsson
-- 🔭 I’m mostly working on Open Source project called [Metal3](http://metal3.io/)
-- 🌍 I'm active within the Metal3 Community on [Slack](https://kubernetes.slack.com/messages/CHD49TLE7)
+- 🏢 I'm currently working at Ericsson.
+- 🔭 I’m mostly working on Open Source project called [Metal3](http://metal3.io/).
+- 🌍 I'm active within the Metal3 Community on [Slack](https://kubernetes.slack.com/messages/CHD49TLE7).
 - 🌱 I’m currently learning everything related to Cloud ☁
-- 😄 Pronouns: He/His
 
 ### 📫 How to reach me:
 
