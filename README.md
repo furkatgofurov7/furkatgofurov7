@@ -1,5 +1,5 @@
-![Github stats](https://github-readme-stats.vercel.app/api/?username=furkatgofurov7&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=furkatgofurov7&layout=compact&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=furkatgofurov7&show_icons=true&count_private=true&include_all_commits=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkatgofurov7&layout=compact&theme=default)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/furkatgofurov7/furkatgofurov7)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=furkatgofurov7.furkatgofurov7)
