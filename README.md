@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Furkat
-#### I'm a Senior Software Engineer working at Ericsson
+### Hi there 👋
+#### I'm a Senior Software Engineer Systems working at SUSE.
 
 ---
 
