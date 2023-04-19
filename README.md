@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm a Senior Software Engineer Systems working at SUSE.
+#### I'm a Senior Software Engineer working at SUSE.
 
 ---
 
